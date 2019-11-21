@@ -1,8 +1,8 @@
-package frc.robot;
+package frc.robot.subsystems.drivetrain;
 
 import com.ctre.phoenix.motorcontrol.can.TalonSRX;
+import frc.robot.enums.TransmissionSide;
 
-import javax.lang.model.type.ArrayType;
 import java.util.ArrayList;
 
 //this is the transmission

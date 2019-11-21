@@ -1,7 +1,9 @@
-package frc.robot;
+package frc.robot.subsystems.drivetrain;
 
 import com.ctre.phoenix.motorcontrol.can.TalonSRX;
 import edu.wpi.first.wpilibj.command.Subsystem;
+import frc.robot.enums.TransmissionSide;
+import frc.robot.subsystems.drivetrain.commands.UseDrivetrain;
 
 public class Drivetrain extends Subsystem {
     private Transmission leftTransmission, rightTransmission;
@@ -36,6 +38,7 @@ public class Drivetrain extends Subsystem {
 
     @Override
     protected void initDefaultCommand() {
+        setDefaultCommand(new UseDrivetrain());
 
     }
 }
