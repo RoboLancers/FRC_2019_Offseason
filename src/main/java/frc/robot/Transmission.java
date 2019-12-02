@@ -7,10 +7,10 @@ public class Transmission {
     private TalonSRX slave1;
     private TalonSRX slave2;
 
-    public Transmission(TransmissionSide side) {
-        master = new TalonSRX(0);
-        slave1 = new TalonSRX(1);
-        slave2 = new TalonSRX(2);
+    public Transmission(TransmissionSide side, int masterPort, int slave1Port, int slave2Port) {
+        master = new TalonSRX(masterPort);
+        slave1 = new TalonSRX(slave1Port);
+        slave2 = new TalonSRX(slave2Port);
 
         slave1.follow(master);
         slave2.follow(master);
