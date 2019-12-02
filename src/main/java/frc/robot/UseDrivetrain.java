@@ -14,7 +14,7 @@ public class UseDrivetrain extends Command {
 
     @Override
     protected void execute() {
-        double throttle = OI.getXboxController().getX(GenericHID.Hand.kLeft);
+        double throttle = OI.getXboxController().getY(GenericHID.Hand.kLeft);
         double turn = OI.getXboxController().getX(GenericHID.Hand.kRight);
 
         Drivetrain.getInstance().getLeftMasterMotor().set(ControlMode.PercentOutput, throttle + turn);
