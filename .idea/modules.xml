@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FRC_2019_Offseason.iml" filepath="$PROJECT_DIR$/.idea/FRC_2019_Offseason.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FRC_2019_Offseason.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FRC_2019_Offseason.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FRC_2019_Offseason.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FRC_2019_Offseason.test.iml" />
+    </modules>
+  </component>
+</project>
