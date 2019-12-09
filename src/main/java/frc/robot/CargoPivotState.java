@@ -3,6 +3,7 @@ package frc.robot;
 import edu.wpi.first.wpilibj.DoubleSolenoid;
 
 public enum CargoPivotState {
+
     UP(DoubleSolenoid.Value.kForward), DOWN(DoubleSolenoid.Value.kReverse), NEUTRAL(DoubleSolenoid.Value.kOff);
 
     private DoubleSolenoid.Value value;
@@ -14,4 +15,5 @@ public enum CargoPivotState {
     public DoubleSolenoid.Value getValue(){
         return value;
     }
+
 }
