@@ -180,6 +180,58 @@
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.14.1/d98b82d81a1e4fcaed3b2de8d339df404878863d/wpiapi-java-5.14.1-sources.jar!/" />
       </SOURCES>
     </library>
+    <library name="Gradle: com.github.FRCTeam4069:Keigen:1.4.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.FRCTeam4069/Keigen/1.4.0/257297841af1fd256ada59ac81c2d7530b54776e/Keigen-1.4.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.FRCTeam4069/Keigen/1.4.0/827068b8ded8a91859a5f283f948cae99c32420b/Keigen-1.4.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.github.salomonbrys.kotson:kotson:2.5.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.salomonbrys.kotson/kotson/2.5.0/40daf22108aa4436d46257e14cc48447cca542c3/kotson-2.5.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.salomonbrys.kotson/kotson/2.5.0/2487bf09e063b6070626fb866d0aba61652cd0ed/kotson-2.5.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.google.code.findbugs:jsr305:3.0.2">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.google.code.gson:gson:2.8.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/baf95d8519fc1a11d388f8543cb40cd2bb9d66dc/gson-2.8.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.kauailabs.navx.frc:navx-java:3.1.366">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-java/3.1.366/61a5d7a55c6f96fa1b15c52eaab3e1ecd27331e5/navx-java-3.1.366.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-java/3.1.366/50bfa74f146e110b7edc72b5d337e81c21345f7f/navx-java-3.1.366-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.revrobotics.frc:SparkMax-java:1.1.9">
+      <CLASSES>
+        <root url="file://$PROJECT_DIR$/Could not find com.revrobotics.frc:SparkMax-java:1.1.9." />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Gradle: edu.wpi.first.cameraserver:cameraserver-java:2019.4.1">
       <CLASSES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cameraserver/cameraserver-java/2019.4.1/d0d4a27f87a6b87eeed4ddc21964a0bc6e9e372/cameraserver-java-2019.4.1.jar!/" />
@@ -254,6 +306,132 @@
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/" />
       </SOURCES>
     </library>
+    <library name="Gradle: org.apache.commons:commons-math3:3.6.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/8fab23986ea8886af34818daf32a718e81dc98ba/commons-math3-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ejml:ejml-all:0.37">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-all/0.37/dfb743213e5ead3aa35f432b447d8baed097492c/ejml-all-0.37.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-all/0.37/259f4595c55de9af49757bc8c07a99ff6946e9f9/ejml-all-0.37-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ejml:ejml-cdense:0.37">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-cdense/0.37/bf14128c9fcacd01d1f9ab0c07ad13693a05ed01/ejml-cdense-0.37.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-cdense/0.37/4023a452efe55067acbe610e6baf288818e030c5/ejml-cdense-0.37-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ejml:ejml-core:0.37">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-core/0.37/6904f4236e482815de250b0272fcbae09127da21/ejml-core-0.37.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-core/0.37/56900beb68acbb96feb545cee63494bd14b3946a/ejml-core-0.37-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ejml:ejml-ddense:0.37">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-ddense/0.37/4225aef123083c1ee81a1f36ae24b043ac8b715f/ejml-ddense-0.37.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-ddense/0.37/2f96d3c0a8ce51bb9cd75643f64ee66f02057705/ejml-ddense-0.37-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ejml:ejml-dsparse:0.37">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-dsparse/0.37/8987a8f107fd9f4bdae2bedbd05605f30ad2322e/ejml-dsparse-0.37.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-dsparse/0.37/198539b1a64e3475f6e7d55d8fd256520ed822f8/ejml-dsparse-0.37-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ejml:ejml-fdense:0.37">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-fdense/0.37/f1febdca547a9a284dcedf95ec1765daa3a74bb5/ejml-fdense-0.37.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-fdense/0.37/fb963b3a4eb019bf0376612ccb067cd7e8d65d8/ejml-fdense-0.37-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ejml:ejml-simple:0.37">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-simple/0.37/3199a6ae71da1f57cd941542e104e32736f892b3/ejml-simple-0.37.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-simple/0.37/2daa7f6d0d747e5156278b0cb6b56fbe1af2a379/ejml-simple-0.37-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ejml:ejml-zdense:0.37">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-zdense/0.37/5fe6e85228de8c86d3653d9f281a052cd2217aaf/ejml-zdense-0.37.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-zdense/0.37/b750f89d26e47ebbb6e41f98f7d919dc91c69fa8/ejml-zdense-0.37-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ghrobotics.FalconLibrary:core:2019.6.14">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/core/2019.6.14/904f365353a5b5e99d3f8f281af510b42a35577e/core-2019.6.14.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/core/2019.6.14/c5e1aaeb7505a6aa78eadd7d51aa55df79eccba4/core-2019.6.14-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ghrobotics.FalconLibrary:vendorCTRE:2019.6.14">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/vendorCTRE/2019.6.14/d7b69fe8a6014f45bff0eb50fc5b228c3ba3369/vendorCTRE-2019.6.14.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/vendorCTRE/2019.6.14/e7f20f85ecd6ce51cba7d992e4d07de8d85b122b/vendorCTRE-2019.6.14-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ghrobotics.FalconLibrary:vendorNAVX:2019.6.14">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/vendorNAVX/2019.6.14/5236adfa8c3721ef82d8058eb0ab0fb9bd62ca99/vendorNAVX-2019.6.14.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/vendorNAVX/2019.6.14/472c5715bae52491f6919ae12b6ab789535b7e84/vendorNAVX-2019.6.14-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ghrobotics.FalconLibrary:vendorREV:2019.6.14">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/vendorREV/2019.6.14/ac449c55279f2d152df5941865b12dccda37f37b/vendorREV-2019.6.14.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/vendorREV/2019.6.14/5db65a072bba722164331816f3ff555c8da17b04/vendorREV-2019.6.14-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.ghrobotics.FalconLibrary:wpi:2019.6.14">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/wpi/2019.6.14/d3712659b73b76bcdbf18b7b7ab80373fa59f886/wpi-2019.6.14.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ghrobotics.FalconLibrary/wpi/2019.6.14/2f640e67d4eec8417956069a19bae232e1dbece5/wpi-2019.6.14-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="Gradle: org.hamcrest:hamcrest-core:1.3">
       <CLASSES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/" />
@@ -263,6 +441,98 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.30" type="kotlin.common">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.30/989a125fdb6e4d0d75a016032e03e1e3b57a13d/kotlin-stdlib-common-1.3.30.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.30/9c981bc2a33066176e605b58a84170b8116e9d8c/kotlin-stdlib-common-1.3.30-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.31" type="kotlin.common">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.31/20c34a04ea25cb1ef0139598bd67c764562cb170/kotlin-stdlib-common-1.3.31.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.31/958c401b129f64de74af4b11a0894693edfa168d/kotlin-stdlib-common-1.3.31-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.31">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.31/e652770b6416c6d85934086899ffed3eccd35813/kotlin-stdlib-jdk7-1.3.31.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.31/783da85383e51e79ba3dfaa36f715a4bae3ba863/kotlin-stdlib-jdk7-1.3.31-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.31">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.3.31/21edc5a6b2e39bc4dc2860346fd778e27503d6cb/kotlin-stdlib-jdk8-1.3.31.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.3.31/17f6480d4ca9ee99e9515d3bc7cd49e5896141d/kotlin-stdlib-jdk8-1.3.31-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.30">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.30/9ea98e65c246d34de9af59c104ad9bdea4908ee/kotlin-stdlib-1.3.30.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.30/1093224407fb1a6f5b79358044a2836bb3d899fd/kotlin-stdlib-1.3.30-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.31">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.31/11289d20fd95ae219333f3456072be9f081c30cc/kotlin-stdlib-1.3.31.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.31/d16c788b755be19bf8a7eace113755519a1d7182/kotlin-stdlib-1.3.31-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlinx:atomicfu-common:0.12.3" type="kotlin.common">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-common/0.12.3/b09ed1e1b1a0996e0a3b6c454797d44788a21747/atomicfu-common-0.12.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-common/0.12.3/dbc2252cf72be2076d27ffc58e12a2ac797a964b/atomicfu-common-0.12.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlinx:atomicfu:0.12.3">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu/0.12.3/16896c746f44e8862b26cd139027580e65d36343/atomicfu-0.12.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu/0.12.3/6134de83c4f15bb52c1722386d07b2dedee294af/atomicfu-0.12.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.2.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.2.0/934716ae1a5a09db4420e63679d097a523b24e43/kotlinx-coroutines-core-1.2.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.2.0/67bb4c984dfe085eb39955879da21af20c35f5da/kotlinx-coroutines-core-1.2.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains:annotations:13.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/73368c3b0887f3adc2c2730dd1b95d7c3781aaf3/annotations-13.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar!/" />
       </SOURCES>
     </library>
   </component>

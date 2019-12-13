@@ -10,6 +10,7 @@ public class CargoPivot extends Subsystem {
     private static CargoPivotState pivotstate;
     public CargoPivot() {
         doubleSolenoid = new DoubleSolenoid(0, 1);
+        pivotstate = CargoPivotState.NEUTRAL;
     }
 
     public void setDoubleSolenoidState(CargoPivotState state) {

@@ -17,11 +17,13 @@ public class useCargoPivot extends InstantCommand {
 
     @Override
     public void initialize() {
+
         if(CargoPivot.getInstance().getDoubleSolenoidState() == CargoPivotState.UP){
             CargoPivot.getInstance().setDoubleSolenoidState(CargoPivotState.DOWN);
         }else{
             CargoPivot.getInstance().setDoubleSolenoidState(CargoPivotState.UP);
         }
+
 
     }
 
