@@ -14,6 +14,8 @@ public class UseCargoPivot extends InstantCommand {
     protected void initialize() {
         boolean up = OI.getXboxController().getAButton();
         boolean down = OI.getXboxController().getBButton();
+
+
     }
 
     @Override
